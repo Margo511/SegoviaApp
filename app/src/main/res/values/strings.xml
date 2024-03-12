@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Segovia</string>
+    <string name="coffee_title">Coffee</string>
+    <string name="restaurant_title">Restaurant</string>
+    <string name="kids_friendly_title">Kids Places</string>
+    <string name="parks_title">Parks</string>
+    <string name="mall_title">Mall</string>
+
+    <string name="coffee1">Café Bar Pasapán</string>
+    <string name="coffee2">Café 34</string>
+    <string name="coffee3">Café Bar San Lorenzo</string>
+    <string name="coffee4">Café Restaurante Limón y Menta</string>
+
+    <string name="restaurant1">Mesón de Cándido</string>
+    <string name="restaurant2">Restaurante José María</string>
+    <string name="restaurant3">Restaurante Casares</string>
+    <string name="restaurant4">Restaurante Narizotas</string>
+
+    <string name="kid_friendly1">Parque Infantil Parque de la Dehesa</string>
+    <string name="kid_friendly2">Parque Infantil Parque del Hondo del Parral</string>
+    <string name="kid_friendly3">Museo de Segovia (con actividades educativas para niños)</string>
+    <string name="kid_friendly4">Zona Recreativa La Hondonada</string>
+
+    <string name="park1">Parque de la Albuera</string>
+    <string name="park2">Parque de los Pinos</string>
+    <string name="park3">Parque de la Dehesa</string>
+    <string name="park4">Parque del Hondo del Parral</string>
+
+    <string name="mall1">Calle Real</string>
+    <string name="mall2">Plaza Mayor y alrededores</string>
+    <string name="mall3">Zona comercial de la Calle Juan Bravo</string>
+    <string name="mall4">Zona comercial de la Calle San Francisco</string>
+
+    <string name="information_coffee1">A cozy café offering a variety of coffees, teas, and pastries. Located in the heart of Segovia, it\'s a popular spot for locals and tourists alike.</string>
+    <string name="information_coffee2">Known for its relaxed atmosphere and friendly service, Café 34 is a great place to enjoy a cup of coffee or grab a light snack while exploring Segovia.</string>
+    <string name="information_coffee3">This café offers a charming ambiance and serves delicious coffee and sandwiches. It\'s located near the San Lorenzo Church, making it a convenient stop during a sightseeing tour.</string>
+    <string name="information_coffee4">Limón y Menta is a combination of a café and a restaurant, offering a diverse menu of Spanish and international cuisine. It\'s a perfect place for a leisurely brunch or a casual dinner.</string>
+
+    <string name="information_restaurant1">A historic restaurant renowned for its traditional Castilian cuisine, especially its roasted suckling pig. Mesón de Cándido offers an authentic dining experience in Segovia\'s old town.</string>
+    <string name="information_restaurant2">With its rustic décor and hearty dishes, Restaurante José María is a favorite among locals for its delicious meats and classic Spanish recipes.</string>
+    <string name="information_restaurant3">Casares Restaurant is known for its elegant ambiance and innovative cuisine. It offers a modern twist on traditional Spanish dishes, using locally sourced ingredients.</string>
+    <string name="information_restaurant4">Narizotas is a cozy restaurant offering a relaxed dining experience. It specializes in seafood and tapas, showcasing the fresh flavors of the region.</string>
+
+    <string name="information_kid_friendly1">A children\'s playground located in Parque de la Dehesa, featuring slides, swings, and other recreational facilities for kids to enjoy.</string>
+    <string name="information_kid_friendly2">Another playground situated in Parque del Hondo del Parral, offering a safe and fun environment for children to play outdoors.</string>
+    <string name="information_kid_friendly3">Segovia Museum offers educational activities and workshops designed for children, providing an interactive learning experience about the city\'s history and culture.</string>
+    <string name="information_kid_friendly4">La Hondonada Recreational Area is a family-friendly spot featuring picnic areas, walking trails, and scenic views, perfect for a day out with the kids.</string>
+
+    <string name="information_park1">A green space with lush gardens and walking paths, Parque de la Albuera is a tranquil oasis in the heart of Segovia, ideal for leisurely strolls and relaxation.</string>
+    <string name="information_park2">Known for its pine trees and shady spots, Parque de los Pinos offers a peaceful environment for outdoor activities such as picnics and jogging.</string>
+    <string name="information_park3">This park features open fields and playgrounds, making it a popular destination for families and outdoor enthusiasts seeking recreational activities.</string>
+    <string name="information_park4">Parque del Hondo del Parral is a spacious park with wooded areas and sports facilities, providing opportunities for both relaxation and exercise.</string>
+
+    <string name="information_shopping1">Segovia\'s main shopping street, Calle Real, is lined with a variety of shops, boutiques, and cafes, offering a vibrant shopping experience in the city center.</string>
+    <string name="information_shopping2">Plaza Mayor and its surrounding streets are dotted with traditional shops, souvenir stores, and artisanal boutiques, perfect for exploring and browsing.</string>
+    <string name="information_shopping3">Calle Juan Bravo is known for its fashion stores, shoe shops, and specialty stores, catering to diverse shopping preferences and tastes.</string>
+    <string name="information_shopping4">Calle San Francisco features a mix of local shops, markets, and small businesses, providing a unique shopping experience with a local flavor.</string>
+</resources>
